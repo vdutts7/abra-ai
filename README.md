@@ -1,6 +1,6 @@
 <a>
   <h1 align="center">
-    <img src="https://github.com/vdutts7/dump/blob/main/ace-ai-logo.png" alt="ace-logo" width="35" height="35">
+    <img src="https://github.com/vdutts7/dump/blob/main/ace-ai-logo.png" alt="ace-logo" width="35" height="35"/>
     Ace
   </h1>
 </a>
