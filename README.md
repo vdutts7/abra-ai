@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="#about"><strong>About</strong></a> ·
-  <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
   <a href="#contact"><strong>Contact</strong></a>
 </p>
 <br/>
@@ -21,7 +20,14 @@
 
 Ace is a powerful tool designed to enhance your interview skills by offering valuable insights into your performance during mock interviews.
 
-## Tech Stack
+### No Judgment
+Receive unbiased feedback and support from our community of experts and peers.
+
+### Customization
+Input your own interview questions and create dynamic interview scenarios to practice for your big day.
+
+### Instant Insights
+Get instant feedback analytics from our AI and hone your interviewing skills.
 
 
 ## Contact
