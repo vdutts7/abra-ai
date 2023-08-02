@@ -10,11 +10,14 @@
 </p>
 
 
-<p align="center">
-  <a href="#about"><strong>About</strong></a> ·
-  <a href="#contact"><strong>Contact</strong></a>
-</p>
-<br/>
+## Table of Contents
+  <ol>
+    <a href="#about">📝 About</a><br/>
+    <a href="#tools-used">🔧 Tools Used</a>
+        <ul>
+        </ul>
+    <a href="#contact">👤 Contact</a>
+  </ol>
 
 ## About
 
