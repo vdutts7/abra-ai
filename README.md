@@ -1,4 +1,5 @@
 <div align="center">
+    ![aceeee](https://github.com/vdutts7/ace-ai/assets/63992417/baa74bb5-9932-47f9-895d-fe6d4a4f3cdb)
     <h1 align="center">
         Ace AI: AI-Powered Interviews 
     </h1>
