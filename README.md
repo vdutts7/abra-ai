@@ -1,6 +1,8 @@
 <div align="center">
-    ![aceeee](https://github.com/vdutts7/ace-ai/assets/63992417/baa74bb5-9932-47f9-895d-fe6d4a4f3cdb)
-    <h1 align="center">
+
+  <img src="https://raw.githubusercontent.com/vdutts7/dump/main/assets/ace-ai-logo.png" alt="Logo" width="80" height="80">
+
+ <h1 align="center">
         Ace AI: AI-Powered Interviews 
     </h1>
     <p align="center"> 
