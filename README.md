@@ -33,7 +33,7 @@
 
 ## 📝About
 
-Ace is a powerful tool designed to enhance your interview skills by offering valuable insights into your performance during mock interviews.
+Abra is a powerful tool designed to enhance your interview skills by offering valuable insights into your performance during mock interviews.
 
 <b>1. No Judgment</b>
 
