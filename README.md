@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/vdutts7/dump/main/assets/ace-ai-logo.png" alt="Logo" width="80" height="80">
 
  <h1 align="center">
-        Ace AI: AI-Powered Interviews 
+        Abra AI: AI-Powered Interviews 
     </h1>
     <p align="center"> 
         <i><b>The new era of recruiting. Instant feedback with detailed analytics.</b></i>
