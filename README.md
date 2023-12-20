@@ -117,7 +117,7 @@ Expecting to launch this soon and add user authentication and waitlist forms. St
 [website-url]: https://ace-ai.vercel.app/
 [github]: https://img.shields.io/badge/💻Github-000000?style=for-the-badge
 [github-url]: https://github.com/vdutts7/ace-ai
-[email]: https://img.shields.io/badge/me@vdutts7.com-FFCA28?style=for-the-badge&logo=Gmail&logoColor=00bbff&color=black
+[email]: https://img.shields.io/badge/me@vd7.io-FFCA28?style=for-the-badge&logo=Gmail&logoColor=00bbff&color=black
 [email-url]: #
 [twitter]: https://img.shields.io/badge/Twitter-FFCA28?style=for-the-badge&logo=Twitter&logoColor=00bbff&color=black
 [twitter-url]: https://twitter.com/vdutts7/
